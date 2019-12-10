@@ -1,35 +1,22 @@
-# Registered User Sync ActiveCampaign 
-Plugin Name: Registered User Sync ActiveCampaign
-Description: Allows you to sync registered users to the Active Campaigns Email Marketing app.
-Version: 1.2.2
-Author: Pravin Durugkar
-Author URI: https://profiles.wordpress.org/pravind
-Text Domain: rus-activecampaign
-Tags: Active Campaign, Sync Registered Users, Sync Users Active Campaign, activecampaign, synchronization
-Requires at least: 4.2
-Tested up to: 5.3
-Contributors: pravind
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+# Registered User Sync ActiveCampaign
 
-
-== Description ==
+## Description 
 
 Its very helpfull plugin for wordpress users. It adds the registered user in wordpress to ActiveCampaign's list. 
 This plugin can be used in multiple ways. A custom trigger is available to add the registered user when you needed.
 Also, a automatic control on sync users. Just select you list id, and little settings your plugin is ready to sync the users.
 
-=== Requirements ===
+## Requirements
 
 * API URL
 * API key
 * List Id if you need to sync the data with different list.
 
-=== Hooks ===
+## Hooks 
 
 Plugin is having multiple hooks to gain more control on plugin's data
 
-==== Filters ====
+## Filters
 * rusac_fetch_api_details
 * rusac_load_settings
 * rusac_fetch_registered_user_data
