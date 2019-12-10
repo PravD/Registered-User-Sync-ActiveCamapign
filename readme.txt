@@ -1,4 +1,4 @@
-=== Registered User Sync ActiveCampaign ===
+# Registered User Sync ActiveCampaign 
 Plugin Name: Registered User Sync ActiveCampaign
 Description: Allows you to sync registered users to the Active Campaigns Email Marketing app.
 Version: 1.2.2
