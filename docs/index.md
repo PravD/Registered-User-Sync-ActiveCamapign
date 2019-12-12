@@ -1,3 +1,4 @@
+
 # Registered User Sync Active Camapaign (RUSAC)
 
 ## Documentation
@@ -24,28 +25,29 @@ We provide very easy integration with the active campaign. In order to integrate
 
 Follow the steps
 1. Go to the settings
-<img src="imgs/plugin-settings.png" />
+![<img src="imgs/plugin-settings.png" />](imgs/plugin-settings.png)
 
 2. Fill the Active campaign details here.
-<img src="imgs/Api-settings.png" />
+![<img src="imgs/Api-settings.png" />](imgs/Api-settings.png)
 
-<small>(Source: <a href="https://help.activecampaign.com/hc/en-us/articles/207317590-Getting-started-with-the-API#how-to-obtain-your-activecampaign-api-url-and-key">Active Campaign Website</a>)</small>
-*How to obtain your ActiveCampaign API URL and Key?*
+<p><small>(Source: <a href="https://help.activecampaign.com/hc/en-us/articles/207317590-Getting-started-with-the-API#how-to-obtain-your-activecampaign-api-url-and-key">Active Campaign Website</a>)</small></p>
 
-In order to enable an integration between your *ActiveCampaign* account and a *RUSAC plugin*, you will need to first obtain your API URL and Key.
+**How to obtain your ActiveCampaign API URL and Key?**
 
-The API URL and Key can be thought of as your username and password to your ActiveCampaign account. When you give this information to a RUSAC Plugin, they will be able to access your account to sync information or perform other tasks.
+In order to enable an integration between your *ActiveCampaign* account and a **RUSAC plugin**, you will need to first obtain your API URL and Key.
 
-To obtain your ActiveCampaign API URL and Key, follow these steps:
+The API URL and Key can be thought of as your username and password to your Active Campaign account. When you give this information to a RUSAC Plugin, they will be able to access your account to sync information or perform other tasks.
+
+To obtain your Active Campaign API URL and Key, follow these steps:
 
 1. Click the "Settings" option located in the left side navigation menu.
-<img src="imgs/active-campaign-settings.png" />
+![<img src="imgs/active-campaign-settings.png" />](imgs/active-campaign-settings.png)
 
 2. The Account Settings menu will appear. Click the "Developer" option.
-<img src="imgs/active-campaign-settings-developer.png" />
+![<img src="imgs/active-campaign-settings-developer.png" />](imgs/active-campaign-settings-developer.png)
 
 The Developer Settings page will load and will display your ActiveCampaign API URL and Key. You can copy and paste this information into your RUSAC Plugin.
-<img src="imgs/api-details-active-campaign.png" />
+![<img src="imgs/api-details-active-campaign.png" />](imgs/api-details-active-campaign.png)
 
 
 ## Hooks
